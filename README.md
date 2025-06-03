@@ -1,7 +1,7 @@
 # 💻 Zeeshan Hasan Khan
 
 **Software Engineer at CGI** | *Ex-Intern @ HighRadius*  
-🌐 [LinkedIn](https://www.linkedin.com/in/zeeshan-hasan-khan-/) | 🐦 [Twitter](https://twitter.com/) | 📫 zeeshan@example.com (replace with real)
+🌐 [LinkedIn](https://www.linkedin.com/in/zeeshan-hasan-khan-/) | 🐦 [Twitter](https://twitter.com/) | 📫 [Mail](zeeshan54khan@gmail.com) 
 
 ---
 
@@ -49,8 +49,8 @@ ServiceNow, JWT, Kafka, OAuth 2.0, REST APIs, Microservices, AWS
 
 ## 📈 GitHub Stats
 
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEESHAN-HASAN-KHAN&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHAN-HASAN-KHAN&layout=compact)
 
 ---
 

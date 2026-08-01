@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Zeeshan;Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;React.js+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ZEESHAN-HASAN-KHAN&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile views" />
 
 </div>
 
@@ -59,13 +59,13 @@ public class Zeeshan {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZEESHAN-HASAN-KHAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHAN-HASAN-KHAN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEESHAN-HASAN-KHAN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHAN-HASAN-KHAN&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
@@ -76,9 +76,9 @@ public class Zeeshan {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZEESHAN-HASAN-KHAN/ZEESHAN-HASAN-KHAN/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZEESHAN-HASAN-KHAN/ZEESHAN-HASAN-KHAN/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZEESHAN-HASAN-KHAN/ZEESHAN-HASAN-KHAN/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -89,7 +89,7 @@ public class Zeeshan {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ZEESHAN-HASAN-KHAN&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
 

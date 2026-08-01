@@ -1,61 +1,113 @@
-# 💻 Zeeshan Hasan Khan
+<div align="center">
 
-**Software Engineer at CGI** | *Ex-Intern @ HighRadius*  
-🌐 [LinkedIn](https://www.linkedin.com/in/zeeshan-hasan-khan-/) | 🐦 [Twitter](https://twitter.com/) | 📫 [Mail](zeeshan54khan@gmail.com) 
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Zeeshan;Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;React.js+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Hi, I'm Zeeshan — a passionate full-stack developer who loves building clean, scalable, and user-centric web applications. With hands-on experience in **Java Spring Boot**, **React**, **MongoDB**, **PostgreSQL**, and **ServiceNow**, I aim to create impactful solutions that solve real-world problems.
+```java
+public class Zeeshan {
+    private final String role = "Java Full Stack Developer";
+    private final String location = "Bengaluru, India 🇮🇳";
+    private final int experienceYears = 3;
 
-🔹 Currently building a **Course Platform with Microservices Architecture**  
-🔹 Worked on **Energy Save Victoria (ESV)** project with a focus on automation, SLAs, and catalog workflows  
-🔹 Building tools like **CRM systems**, **Mailing systems**, and **HR portals** using modern web stacks and cloud services
+    public String[] getCurrentFocus() {
+        return new String[] {
+            "Building scalable Microservices with Spring Boot",
+            "Event-driven architecture with Apache Kafka",
+            "Cloud-native deployments with Docker & Kubernetes"
+        };
+    }
+}
+```
+
+- 🔭 Currently working on **enterprise-grade microservices** for telecom domain
+- 🌱 Deep-diving into **System Design & Distributed Systems**
+- 💬 Ask me about **Java, Spring Boot, Kafka, REST APIs, React**
+- ⚡ Fun fact: I debug faster with chai in hand ☕
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Java, JavaScript, TypeScript, C++, HTML, CSS
+<div align="center">
 
-**Frameworks & Tools:**  
-Spring Boot, React.js, Node.js, Express, Tailwind CSS, Mongoose, Git, Docker
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,hibernate,maven&theme=dark" />
 
-**Databases:**  
-PostgreSQL, MongoDB, MySQL
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css&theme=dark" />
 
-**Others:**  
-ServiceNow, JWT, Kafka, OAuth 2.0, REST APIs, Microservices, AWS
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,postman&theme=dark" />
 
----
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
 
-## 🚀 Featured Projects
-
-- 🔗 [Course Selling Platform (Microservices)](https://github.com/your-username/course-platform)
-  - Built using Spring Boot, React, PostgreSQL, Kafka, JWT
-
-- 🔗 [CRM Tool for Salespeople](https://github.com/your-username/crm-tool)
-  - Stores client info, tracks interactions, enables smart sales follow-up
-
-- 🔗 [Instagram Roast Web App](https://github.com/your-username/insta-roast)
-  - Fun side project built using React and OpenAI APIs
-
-- 🔗 [Corona Virus Stats Board](https://covid-19-tracker-zeeshan.netlify.app/)
-  - Live COVID-19 dashboard using public APIs and charts
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEESHAN-HASAN-KHAN&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHAN-HASAN-KHAN&layout=compact)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🐍 Contribution Snake
 
-- 💼 Looking for exciting opportunities in full-stack or backend development
-- 💬 Ask me about Java, Spring Boot, React, or building scalable systems!
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+</div>
+
+<div align="center">
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
